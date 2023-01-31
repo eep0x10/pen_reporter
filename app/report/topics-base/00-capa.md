@@ -1,3 +1,4 @@
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <!--Capa-->
 <br><br><br><br>
 
@@ -7,7 +8,7 @@
 <h1 style="font-size: 250%;">Relatorio Pentest</h1>
 
 <!--Cor Empresa-->
-<div class='box red' style="background-color: #01ff5f;height: 20px;width: 90px;margin-bottom: 15px;border: 1px solid black;position=top"></div>
+<div class="box red" style="background-color: #01ff5f;height: 20px;width: 90px;margin-bottom: 15px;border: 1px solid black;position=top"></div>
 
 <br><br><br><br>
 
